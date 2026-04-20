@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+env/
+
+# Google credentials
+credentials.json
+
+# Logs
+log/
+*.log
+
+# Runtime folders
+did_inforu/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

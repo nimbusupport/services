@@ -1,0 +1,7 @@
+Flask
+pandas
+gspread
+requests
+google-auth
+google-api-python-client
+python-dotenv
